@@ -1,0 +1,11 @@
+fellipe1.txt
+fellipe26
+fellipe2.txt
+fellipe3.txt
+grepdata.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-fellipe.txt
